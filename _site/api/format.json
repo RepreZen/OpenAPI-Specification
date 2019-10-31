@@ -1,0 +1,35 @@
+{
+"commonmark": {
+  "slug": "commonmark",
+  "title": "Commonmark",
+  "issue": "",
+  "description": "commonmark-formatted text",
+  "owner": "MikeRalphson",
+  "base_type": "string"
+},
+"html": {
+  "slug": "html",
+  "title": "Html",
+  "issue": "",
+  "description": "HTML-formatted text",
+  "owner": "MikeRalphson",
+  "base_type": "string"
+},
+"int8": {
+  "slug": "int8",
+  "title": "Int8",
+  "issue": "845",
+  "description": "signed 8-bit integer",
+  "owner": "MikeRalphson",
+  "base_type": "number"
+},
+"uint8": {
+  "slug": "uint8",
+  "title": "Uint8",
+  "issue": "845",
+  "description": "unsigned 8-bit integer",
+  "owner": "MikeRalphson",
+  "base_type": "number"
+}
+
+}

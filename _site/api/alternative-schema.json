@@ -1,0 +1,17 @@
+{
+"jsonSchema": {
+  "slug": "jsonSchema",
+  "title": "Jsonschema",
+  "issue": "1532",
+  "description": "JSON Schema",
+  "owner": "darrelmiller"
+},
+"xmlSchema": {
+  "slug": "xmlSchema",
+  "title": "Xmlschema",
+  "issue": "1532",
+  "description": "xml Schema",
+  "owner": "darrelmiller"
+}
+
+}

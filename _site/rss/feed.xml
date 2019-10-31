@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenAPI Initiative Registry - DRAFT CONTENT</title>
+    <description>Extensible data value repository</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/rss/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>jsonSchema</title>
+        <description>JSON Schema</description>
+        <category>alternative-schema</category>
+        <pubDate>Sun, 03 Feb 2019 14:39:15 -0500</pubDate>
+        <link>/registry/alternative-schema/jsonSchema</link>
+        <guid isPermaLink="true">/registry/alternative-schema/jsonSchema</guid>
+      </item>
+    
+      <item>
+        <title>xmlSchema</title>
+        <description>xml Schema</description>
+        <category>alternative-schema</category>
+        <pubDate>Sun, 03 Feb 2019 14:39:15 -0500</pubDate>
+        <link>/registry/alternative-schema/xmlSchema</link>
+        <guid isPermaLink="true">/registry/alternative-schema/xmlSchema</guid>
+      </item>
+    
+    
+    
+    
+      <item>
+        <title>alternativeSchema</title>
+        <description>x-oas-draft-alternativeSchema</description>
+        <category>draft-feature</category>
+        <pubDate>Sun, 03 Feb 2019 14:39:15 -0500</pubDate>
+        <link>/registry/draft-feature/alternativeSchema</link>
+        <guid isPermaLink="true">/registry/draft-feature/alternativeSchema</guid>
+      </item>
+    
+    
+    
+    
+      <item>
+        <title>x-twitter</title>
+        <description>Used to hold a reference to the API provider's Twitter account.</description>
+        <category>extension</category>
+        <pubDate>Sun, 03 Feb 2019 14:39:15 -0500</pubDate>
+        <link>/registry/extension/x-twitter</link>
+        <guid isPermaLink="true">/registry/extension/x-twitter</guid>
+      </item>
+    
+    
+    
+    
+      <item>
+        <title>commonmark</title>
+        <description>commonmark-formatted text</description>
+        <category>format</category>
+        <pubDate>Sun, 03 Feb 2019 14:39:15 -0500</pubDate>
+        <link>/registry/format/commonmark</link>
+        <guid isPermaLink="true">/registry/format/commonmark</guid>
+      </item>
+    
+      <item>
+        <title>html</title>
+        <description>HTML-formatted text</description>
+        <category>format</category>
+        <pubDate>Sun, 03 Feb 2019 14:39:15 -0500</pubDate>
+        <link>/registry/format/html</link>
+        <guid isPermaLink="true">/registry/format/html</guid>
+      </item>
+    
+      <item>
+        <title>int8</title>
+        <description>signed 8-bit integer</description>
+        <category>format</category>
+        <pubDate>Sun, 03 Feb 2019 14:39:15 -0500</pubDate>
+        <link>/registry/format/int8</link>
+        <guid isPermaLink="true">/registry/format/int8</guid>
+      </item>
+    
+      <item>
+        <title>uint8</title>
+        <description>unsigned 8-bit integer</description>
+        <category>format</category>
+        <pubDate>Sun, 03 Feb 2019 14:39:15 -0500</pubDate>
+        <link>/registry/format/uint8</link>
+        <guid isPermaLink="true">/registry/format/uint8</guid>
+      </item>
+    
+    
+    
+    
+    
+    
+    
+    
+  </channel>
+</rss>

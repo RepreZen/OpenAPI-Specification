@@ -1,0 +1,10 @@
+{
+"alternativeSchema": {
+  "slug": "alternativeSchema",
+  "title": "Alternativeschema",
+  "issue": "1532",
+  "description": "x-oas-draft-alternativeSchema",
+  "owner": "darrelmiller"
+}
+
+}

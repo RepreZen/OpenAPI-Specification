@@ -1,0 +1,12 @@
+{
+"x-twitter": {
+  "slug": "x-twitter",
+  "title": "X Twitter",
+  "issue": "",
+  "description": "Used to hold a reference to the API provider's Twitter account.",
+  "owner": "MikeRalphson",
+  "objects": ["contactObject"],
+  "schema": {"type":"string"}
+}
+
+}
